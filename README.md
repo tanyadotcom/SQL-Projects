@@ -1,1 +1,1 @@
-# SQL-Projects
+# Insta Clone project
